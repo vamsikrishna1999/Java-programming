@@ -3,6 +3,20 @@ import java.util.*;
 //Initial Template for Java
 //Position this line where user code will be pasted.
 // Driver class with driver code
+/*Input:
+        2
+        6
+        i g i e i e i k i s f e
+        4
+        i c i p i p f f
+
+        Output:
+        2
+        Not Present
+
+        Explanation:
+        Testcase 1: Inserting g, e, e, k, s into the list. Frequency of e is 2 in the list.
+        Testcase 2: Inserting c, p, p into the list. Frequency of f is 0 in the list.*/
 class GFG
 {
     // Driver code
